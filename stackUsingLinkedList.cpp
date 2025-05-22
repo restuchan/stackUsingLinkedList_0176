@@ -67,4 +67,5 @@ void pop(){
     }
 };
 
+int main ()
 
