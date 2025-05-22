@@ -22,4 +22,6 @@ class Stack {
         top = NULL; //initialize the stack with a null top pointer
     }
 
+    //push operation insert an element onto the top os stack
+    int push(int value){
     
